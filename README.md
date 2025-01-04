@@ -1,7 +1,7 @@
 توسعه‌دهنده جنگو (Junior)
 عاشق برنامه‌نویسی و در حال فعالیت با فریم‌ورک جنگو در سطح جونیور. علاقه‌مند به یادگیری و بهبود مهارت‌هایم در زمینه توسعه وب. در حال حاضر بر روی پروژه‌های وب با استفاده از ویوهای مبتنی بر کلاس (Class-based Views) کار می‌کنم. به دنبال یادگیری مهارت‌های جدید در زمینه‌های زیر:
 
-Django REST Framework (DRF)
-Django Channels
-Docker
-Test-Driven Development (TDD) 
+Django REST Framework (DRF) ,
+Django Channels ,
+Docker ,
+Test-Driven Development (TDD) ,
