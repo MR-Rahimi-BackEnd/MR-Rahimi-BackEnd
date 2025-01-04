@@ -1,12 +1,7 @@
-- 👋 Hi, I’m Mr Rahimi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+توسعه‌دهنده جنگو (Junior)
+عاشق برنامه‌نویسی و در حال فعالیت با فریم‌ورک جنگو در سطح جونیور. علاقه‌مند به یادگیری و بهبود مهارت‌هایم در زمینه توسعه وب. در حال حاضر بر روی پروژه‌های وب با استفاده از ویوهای مبتنی بر کلاس (Class-based Views) کار می‌کنم. به دنبال یادگیری مهارت‌های جدید در زمینه‌های زیر:
 
-<!---
-MR-Rahimi-BackEnd/MR-Rahimi-BackEnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Django REST Framework (DRF) برای ساخت API‌های کاربردی
+Django Channels برای توسعه برنامه‌های رئال تایم و کار با WebSockets
+Docker برای مدیریت محیط‌های توسعه و استقرار
+Test-Driven Development (TDD) برای نوشتن کدهای قابل تست و پایدار
